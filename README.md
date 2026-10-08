@@ -7,4 +7,5 @@ Source code for "Impact of Diffuse Parenchymal Changes of Hashimoto's Thyroiditi
 
 
 
-![Uploading 混淆矩阵.png…]()
+
+<img width="11568" height="7721" alt="混淆矩阵" src="https://github.com/user-attachments/assets/6ee206ab-2740-4225-9d25-2aa377c3d8fb" />
